@@ -60,7 +60,8 @@ Here’s a brief overview of the main components in the code:
 
 ## Screenshots
 
-![(Add screenshots of your application here if available.)]()
+![(Add screenshots of your application here if available.)](https://raw.githubusercontent.com/y3script/PinDown/main/Screenshots/PinDown_gui_01.png)
+![(Add screenshots of your application here if available.)](https://raw.githubusercontent.com/y3script/PinDown/main/Screenshots/PinDown_gui_02.png)
 
 ## Contributing
 
