@@ -74,3 +74,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 Made by Y3script. For more info, contact me via [social media](https://bio.link/y3script).
+<br>
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L2LG5ZV)
